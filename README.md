@@ -6,4 +6,4 @@ Me learning & fooling around with the awesome [Node.js](http://nodejs.org/) plat
 
 ## Build
 
-Built it using [NPM](http://npmjs.org/)
+Build it with [NPM](http://npmjs.org/).
