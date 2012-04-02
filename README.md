@@ -3,3 +3,7 @@ Me learning & fooling around with the awesome [Node.js](http://nodejs.org/) plat
 
   * helloworld
   * limited [MongoDB](http://www.mongodb.org/) app built with [Express](http://expressjs.com/), [Jade](http://jade-lang.com/) & [Mongoose](http://mongoosejs.com/)
+
+## Build
+
+Built it using [NPM](http://npmjs.org/)
