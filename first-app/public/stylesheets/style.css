@@ -1,0 +1,14 @@
+/*
+<h3>Base styles</h3>
+<p>The following code is inline <code>inline code</code>.</p>
+*/
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+/*
+<p>The following code is inline <code>inline code</code>.</p>
+*/
+a {
+  color: #00B7FF;
+}

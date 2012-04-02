@@ -1,0 +1,20 @@
+{
+	"name": "application-name",
+	"description": "desc",
+	"version": "0.0.1",
+	"author": "aut",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/GallifreyanCode/node-js-playground.git"
+	},
+	"dependencies": {
+      "express": "2.5.8",
+	  "connect": "1.8.6",
+	  "jade": "0.22.0",
+	  "mongoose": "2.5.13"
+	},
+	"devDependencies": {
+	},
+	"main": "app",
+	"engine": "node 0.6.14"
+}
